@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "web": "www.nitin.com",
+      "name": "nitin",
+      "mail": "nitin",
+      "no": "9789332035",
+      "pass": "nitin"
+    },
+    {
+      "web": "www.google.com",
+      "name": "Nawin",
+      "mail": "nawin@gmail.com",
+      "no": "25095802",
+      "pass": "Nawin",
+      "id": 2
+    },
+    {
+      "web": "www.google.com",
+      "name": "Nawin",
+      "mail": "nawinvignesh2005@gmail.com",
+      "no": "7871784499",
+      "pass": "Nawin@2005",
+      "id": 3
+    },
+    {
+      "web": "www.nawin@gmail.com",
+      "name": "NawinVignesh",
+      "mail": "nawin@gmail.com",
+      "no": "7871784499",
+      "pass": "nawin",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
